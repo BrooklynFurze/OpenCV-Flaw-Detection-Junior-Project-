@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "838458f1-d14f-48a6-8445-089b32b8dadb": {
+      "ProjectGuid": "838458f1-d14f-48a6-8445-089b32b8dadb",
+      "DisplayName": "OpenCVTestApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
